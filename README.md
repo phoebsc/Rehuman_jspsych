@@ -1,5 +1,8 @@
 
 # REHUMAN flow testing
+## Web deployment
+The project is currently deployed at https://phoebsc.github.io/Rehuman_jspsych/
+In the future it will be hosted on firebase https://rehuman-test-a4bec.web.app/
 
 ## Tools and Technologies Used
 
